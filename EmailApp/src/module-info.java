@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author simonasstankevicius
+ *
+ */
+module JavaProject {
+}
